@@ -1,0 +1,8 @@
+---
+applications:
+- name: cf-hello
+  memory: 720M
+  instances: 1
+  host: cf-hello-team35
+  random-route: true
+  
